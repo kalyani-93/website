@@ -21,3 +21,5 @@ function makebuttonInputField($name) {
 <?php makeTextInputField('email'); ?>
 <h2>name</h2>
 <?php makebuttonInputField('submit'); ?>
+<h2>name</h2>
+<?php makebuttonInputField('submit'); ?>
